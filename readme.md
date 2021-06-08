@@ -1,7 +1,9 @@
 # HP ProBook 450 G3 - OpenCore 0.6.9
 
-OpenCore setup for HP ProBook 450 G3
-Some kext's were updated to the most rcent version
+OpenCore setup for HP ProBook 450 G3, some kexts were updated to the most recent version.
+
+Based on [anullog's](https://github.com/anullog/HP-ProBook-450-G3-Hackintosh) Setup.
+
 
 ### Laptop Specifications:
 - Intel Core i5 6200U CPU (Skylake)
